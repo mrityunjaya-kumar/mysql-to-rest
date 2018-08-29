@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MySqlRestApi", "MySqlRestApi\MySqlRestApi.csproj", "{6E30E146-CE1D-44E9-9C83-E3A28BCD9A6B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MySqlRestApi.Tests", "MySqlRestApi.Tests\MySqlRestApi.Tests.csproj", "{2C1A5783-4FD3-4CC7-A293-C183F6051B41}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6E30E146-CE1D-44E9-9C83-E3A28BCD9A6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E30E146-CE1D-44E9-9C83-E3A28BCD9A6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E30E146-CE1D-44E9-9C83-E3A28BCD9A6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E30E146-CE1D-44E9-9C83-E3A28BCD9A6B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C1A5783-4FD3-4CC7-A293-C183F6051B41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C1A5783-4FD3-4CC7-A293-C183F6051B41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C1A5783-4FD3-4CC7-A293-C183F6051B41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C1A5783-4FD3-4CC7-A293-C183F6051B41}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E0CEAFE9-8DAA-4C03-99A3-4D0A485C6BCB}
+	EndGlobalSection
+EndGlobal
